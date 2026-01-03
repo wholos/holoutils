@@ -1,5 +1,0 @@
-**dependencies**
-``` bash
-rust
-make
-```
